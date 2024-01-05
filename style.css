@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-header {
+  /* width: 100%; */
+  height: 80px;
+  background-color: #b5b5b5;
+}
+.post1 {
+  width: 700px;
+  height: 80px;
+  background-color: #b5b5b5;
+  margin: 70px auto;
+}
+
+.hero1 {
+  width: 750px;
+  height: 650px;
+  background-color: #b5b5b5;
+  /* margin: 20px; */
+  float: left;
+}
+.hero2 {
+  width: 750px;
+  height: 650px;
+  background-color: #b5b5b5;
+  /* margin: 20px; */
+  float: right;
+}
+.whitespace {
+  height: 2px;
+  background-color: white;
+  clear: both;
+}
+
+.post2 {
+  width: 800px;
+  height: 80px;
+  background-color: #b5b5b5;
+  margin: 70px auto;
+  clear: both;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  background-color: #b5b5b5;
+  float: left;
+  margin: 15px;
+  float: start;
+}
+
+.boxes:nth-of-type(2) {
+  margin-left: 100px;
+}
+
+.post3 {
+  width: 900px;
+  height: 80px;
+  background-color: #b5b5b5;
+  clear: both;
+
+  margin: 50px auto;
+}
+
+.space {
+  background-color: #b5b5b5;
+  height: 700px;
+  float: inherit;
+}
+.small {
+  width: 340px;
+  height: 70px;
+  background-color: #b5b5b5;
+  margin: 40px;
+}
+.big {
+  width: 340px;
+  height: 200px;
+  background-color: #b5b5b5;
+  margin: 40px;
+}
+.main {
+  float: left;
+  margin: 42px;
+  /* padding: 10px; */
+}
+
+.main {
+  background-color: white;
+  /* clear: both; */
+}
+.post4 {
+  width: 400px;
+  height: 70px;
+  margin: 40px auto;
+  background-color: #b5b5b5;
+}
+.post5 {
+  width: 700px;
+  height: 70px;
+  margin: 20px auto;
+  background-color: #b5b5b5;
+}
+.post6 {
+  width: 700px;
+  height: 250px;
+  margin: 20px auto;
+  background-color: #b5b5b5;
+}
+.post7 {
+  width: 340px;
+  height: 70px;
+  background-color: #b5b5b5;
+  clear: both;
+  margin: 10px;
+  margin-left: 407px;
+  display: inline-block;
+}
+.post8 {
+  width: 340px;
+  height: 70px;
+  background-color: #b5b5b5;
+  clear: both;
+  margin: 10px;
+
+  display: inline-block;
+}
+.footer {
+  background-color: #b5b5b5;
+  margin-top: 96px;
+  height: 290px;
+}
+.footer-box {
+  background-color: white;
+  width: 720px;
+  height: 250px;
+  float: left;
+
+  margin: 22px 18px;
+}
